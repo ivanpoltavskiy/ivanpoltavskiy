@@ -6,3 +6,7 @@
 - 🌱 I continue to improve my skills in Spring Framework
 - 🏣 Looking for a company where I can grow as a specialist
 - 📫 How to reach me: [**LinkedIn** - Ivan Poltavskiy](https://www.linkedin.com/in/ivan-poltavskiy/), [**Telegram** - @luft_vaflia](https://t.me/luft_vaflia), [**Gmail** - ivan.poltavskiy28@gmail.com]
+
+##
+**My statistics:**
+### [![Ivan Poltavskiy profile views](https://u8views.com/api/v1/github/profiles/97545580/views/day-week-month-total-count.svg)](https://u8views.com/github/ivanpoltavskiy)
