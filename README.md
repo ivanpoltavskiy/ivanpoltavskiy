@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, everyone 🙋‍♂️
+My name is Ivan and I'm Java developer ☕🌱
+I enjoy what I do, always learn something new and just love interesting projects 📰💻
 
 <!--
 **ivanpoltavskiy/ivanpoltavskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
